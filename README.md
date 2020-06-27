@@ -1,4 +1,4 @@
-# Pyhton-Logging
+# Python-Logging
 Logging program to capture errors.
 User Instruction:
 1.	Component of this program:
